@@ -1,10 +1,10 @@
-Learn Languages 2022 公式リポジトリ
+Learn Languages 2023 公式リポジトリ
 ======
 
-2022年9月3日(土)にオンラインで開催するLearn Langages 2022の公式ドキュメントや発表資料を管理するためのリポジトリです。
+2023年9月3日(土)にオンラインで開催するLearn Langages 2023の公式ドキュメントや発表資料を管理するためのリポジトリです。
 
-- 公式サイト(作成中): [https://ll.jus.or.jp/2022/](https://ll.jus.or.jp/2022/)
-- 公式ハッシュタグ: [#ll2022jp](https://twitter.com/search?q=ll2022jp)
+- 公式サイト(作成中): [https://ll.jus.or.jp/2023/](https://ll.jus.or.jp/2023/)
+- 公式ハッシュタグ: [#ll2023jp](https://twitter.com/search?q=ll2023jp)
 
 # このリポジトリの目的
 
