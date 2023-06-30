@@ -17,7 +17,7 @@
 
 # 必要な開発環境
 
-- Node.js 12~ // 必須
+- Node.js 18~ // 必須
 
 # ディレクトリ構成
 
@@ -27,12 +27,11 @@ staff
 ├── event
 │   └── README.md        // (1) Markdownソース
 ├── md2html.js            // (2) 変換用スクリプト
-├── package.json
-└── yarn.lock
+└── package.json
 ```
 
 # HTMLの更新手順
 
 1. 記事本文を修正したい場合はMarkdown形式のソースコード```event/README.md```を編集します。ただしこれは記事本文のみのソースであり、HTML全体のソースは```md2html.js```の中に直に書いてあります。記事本文以外のHTMLを編集したい場合は```md2html.js```をコード修正する必要があります
-1. ```yarn run md2html```コマンドで```md2html.js```を実行します
+1. ```npm run md2html```コマンドで```md2html.js```を実行します
 1. ```site/2023/index.html```が生成されます
