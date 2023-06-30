@@ -1,5 +1,5 @@
-const marked = require('marked');
-const fs = require('fs');
+import { marked } from 'marked'
+import fs from 'fs'
 
 const inFile = process.argv[2]
 const outFile = process.argv[3]
@@ -11,7 +11,7 @@ const heading = renderer.heading.bind(renderer)
 renderer.heading = (text, level, raw, slugger) => {
     let cls = ` class="center">`
     if (level == 1) {
-        cls = ` class="header center purple-text darken-4">`
+        cls = ` class="header center blue-text darken-4">`
     }
     return heading(text, level, raw, slugger).replace(/>/i, cls)
 }
@@ -32,7 +32,7 @@ const content = `<!DOCTYPE html>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="purple darken-1" role="navigation">
+  <nav class="blue darken-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Learn&nbsp;Languages</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="https://twitter.com/lljapan/" target="_blank"><i class="fab fa-twitter"></i></a></li>

@@ -2,7 +2,7 @@
 
 <br><br>
       
-# Learn Languages 2022
+# Learn Languages 2023
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 <div class="col s12 m4"><div class="icon-block"><!-- start About -->
 
-<h2 class="center purple-text darken-1"><i class="material-icons">people</i></h2><!-- people icon -->
+<h2 class="center blue-text darken-1"><i class="material-icons">people</i></h2><!-- people icon -->
 
 ##### About
 
@@ -34,7 +34,7 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 
 <div class="col s12 m4"><div class="icon-block"><!-- start Session -->
 
-<h2 class="center purple-text darken-1"><i class="material-icons">event</i></h2><!-- event icon -->
+<h2 class="center blue-text darken-1"><i class="material-icons">event</i></h2><!-- event icon -->
 
 ##### Session
 
@@ -102,7 +102,7 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 
 <div class="col s12 m4"><div class="icon-block"><!-- start History -->
 
-<h2 class="center purple-text darken-1"><i class="material-icons">watch_later</i></h2><!-- watch_later icon -->
+<h2 class="center blue-text darken-1"><i class="material-icons">watch_later</i></h2><!-- watch_later icon -->
 
 ##### History
 
