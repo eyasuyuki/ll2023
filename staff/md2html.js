@@ -1,4 +1,5 @@
 import { marked } from 'marked'
+
 import fs from 'fs'
 
 const inFile = process.argv[2]
@@ -17,6 +18,10 @@ renderer.heading = (text, level, raw, slugger) => {
 }
 
 marked.use({ renderer })
+marked.use({
+    mangle: false,
+    headerIds: false
+});
 
 const content = `<!DOCTYPE html>
 <html lang="ja">
