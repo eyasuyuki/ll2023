@@ -53,19 +53,19 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 - 15:00 - 15:45 この20年を振り返る座談会
 - 16:00 - 16:45 これからどうする座談会
 
-|   **Perl** |                                                                                                                    |
-|-----------:|--------------------------------------------------------------------------------------------------------------------|
-|         講師 | 小飼弾                                                                                                                |
-|         資料 | [SpeakerDeck](https://speakerdeck.com/dankogai/perl-and-the-rest-of-the-world-what-have-nt-changed-in-two-decades) |
-| **PHP** |                                                                                                                    |
-|      講師 | うさみけんた(tadsan)                                                                                                     |
-|         資料 | TBD                                                                                                                |
-| **Python** |                                                                                                                    |
-|         講師 | 柴田淳                                                                                                                |
-|         資料 | [SlideShare](https://www.slideshare.net/shibats/python20?fbclid=IwAR2sA2no2nrTBTCiPt-9H9SIIi0ZCaIKZkLfJarWgxutgbUEmo54OjviT7c)                                                                                                     |
-| **Ruby** |                                                                                                                    |
-|       講師 | まつもとゆきひろ                                                                                                           |
-|         資料 | [PDF](https://ll.jus.or.jp/2023/Ruby%E3%81%AE%E3%81%93%E3%81%AE%EF%BC%92%EF%BC%90%E5%B9%B4.pdf)                    |
+|   **Perl** |                                                                                                                                |
+|-----------:|--------------------------------------------------------------------------------------------------------------------------------|
+|         講師 | 小飼弾                                                                                                                            |
+|         資料 | [SpeakerDeck](https://speakerdeck.com/dankogai/perl-and-the-rest-of-the-world-what-have-nt-changed-in-two-decades)             |
+| **PHP** |                                                                                                                                |
+|      講師 | うさみけんた(tadsan)                                                                                                                 |
+|         資料 | [PDF](http://ll.jus.or.jp/2023/PHP%E3%81%AE20%E5%B9%B4%E3%81%A8%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89(LL2023).pdf)               |
+| **Python** |                                                                                                                                |
+|         講師 | 柴田淳                                                                                                                            |
+|         資料 | [SlideShare](https://www.slideshare.net/shibats/python20?fbclid=IwAR2sA2no2nrTBTCiPt-9H9SIIi0ZCaIKZkLfJarWgxutgbUEmo54OjviT7c) |
+| **Ruby** |                                                                                                                                |
+|       講師 | まつもとゆきひろ                                                                                                                       |
+|         資料 | [PDF](https://ll.jus.or.jp/2023/Ruby%E3%81%AE%E3%81%93%E3%81%AE%EF%BC%92%EF%BC%90%E5%B9%B4.pdf)                                |
 
 | **動画** |
 |---------|
